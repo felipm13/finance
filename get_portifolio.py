@@ -1,10 +1,5 @@
-import datetime
-import pandas_datareader as pd_dr
 import pandas as pd
 import numpy as np
-
-start = datetime.datetime(2015,1,1)
-end = datetime.datetime(2018,12,19)
 
 data = pd.DataFrame()
 
